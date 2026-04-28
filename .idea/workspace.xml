@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c29d842-142e-4cdf-9185-352988927958" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookAppRestful/src/main/webapp/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppMVC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppMVC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppMVC/src/main/java/servlet/BookApiServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/.idea/artifacts/BookApp_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/.idea/artifacts/BookApp_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/java/servlet/DeleteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/java/servlet/HomeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/java/servlet/InsertServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/java/servlet/UpdateServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/jsp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/jsp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/jsp/insert.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/jsp/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookAppRestful/src/main/jsp/update.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BookAppRestful" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3CyyiRJICmLjSSZwlzI5jOOFyEI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c29d842-142e-4cdf-9185-352988927958" name="Changes" comment="" />
+      <created>1777372234592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777372234592</updated>
+      <workItem from="1777372235744" duration="70000" />
+      <workItem from="1777372308619" duration="978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
