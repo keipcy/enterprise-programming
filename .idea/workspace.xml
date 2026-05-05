@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c29d842-142e-4cdf-9185-352988927958" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BookAppRestful" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookAppRestful/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookAppRestful/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c29d842-142e-4cdf-9185-352988927958" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "<unknown>",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/kotharaljanabi/Y3/enterprise-programming/EnterpriseProgramming",
     "node.js.detected.package.eslint": "true",
@@ -55,10 +52,24 @@
       <workItem from="1777372235744" duration="70000" />
       <workItem from="1777372308619" duration="978000" />
       <workItem from="1777385811544" duration="1486000" />
+      <workItem from="1777986573132" duration="523000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1777986597025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777986597025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
